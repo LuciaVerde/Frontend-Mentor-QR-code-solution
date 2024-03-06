@@ -1,0 +1,49 @@
+.card {
+    width: 20rem;
+    background-color: $White;
+    border-radius: 1rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    font-family: $font-family;
+
+    @media (max-width:576px) {
+        width: 17rem;
+    }
+
+    img {
+        border-radius: 0.5rem;
+        width: 100%;
+        height: auto;
+    }
+
+    h1 {
+        font-weight: 700;
+        color: $Dark-blue;
+        font-size: 22px;
+        margin: 1rem 2rem;
+
+        @media (max-width:576px) {
+            font-size: 20px;
+            margin: 1rem 1rem;
+        }
+    }
+
+
+    p {
+        font-weight: 400;
+        color: $Grayish-blue;
+        font-size: $font-size-paragraph;
+        margin-top: 0rem;
+        margin-bottom: 2rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
+
+        @media (max-width:576px) {
+            font-size: 14px;
+            margin-left: 0.9rem;
+            margin-right: 0.9rem;
+            margin-bottom: 1rem;
+        }
+    }
+}
