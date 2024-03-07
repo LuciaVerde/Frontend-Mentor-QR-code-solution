@@ -29,31 +29,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [QR code solution](https://frontendmentorqrcodesolution.netlify.app/)
 
 ## My process
+1.Set up
+2.HTML
+3.Sass
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Grid
 - Desktop-first workflow
+- Sass
 
 ### What I learned
-Although I am familiar with HTML, CSS and Sass, I was able to refresh several concepts that I had forgotten a bit, for example the application of media queries to make the site responsive.
 
-```sass
-.card {
-    width: 20rem;
-    background-color: $White;
-    border-radius: 1rem;
-    padding: 1rem;
-    display: flex;
-    flex-direction: column;
-    font-family: $font-family;
-
-    @media (max-width:576px) {
-        width: 17rem;
-    }
-```
+Through this project you could refresh some basic concepts that I had somewhat forgotten.
 
 ## Author
 

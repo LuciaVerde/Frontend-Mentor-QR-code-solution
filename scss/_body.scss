@@ -1,10 +1,8 @@
 body{
     background-color: $Light-gray;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    height: 100vh;
     font-family: $font-family;
+    display: grid;
+    place-content: center;
+    text-align: center;
+    min-height: 100vh;
 }

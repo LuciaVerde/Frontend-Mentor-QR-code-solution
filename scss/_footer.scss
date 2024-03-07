@@ -1,9 +1,6 @@
 .attribution{
     font-size: $font-size-paragraph;
     color: $Dark-blue;
-    margin-top: 2rem;
-    
-    @media (max-width:576px) {
-        font-size: 14px;
-    }
+    padding: 1rem;
+    max-width: 20rem;
 }
