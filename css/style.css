@@ -10,6 +10,10 @@ body {
   min-height: 100vh;
 }
 
+.hidden {
+  display: none;
+}
+
 .card {
   max-width: 20rem;
   padding: 1rem;

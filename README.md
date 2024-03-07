@@ -43,7 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Through this project you could refresh some basic concepts that I had somewhat forgotten.
+Through this project I refreshed some basic concepts that I had somewhat forgotten.
 
 ## Author
 
