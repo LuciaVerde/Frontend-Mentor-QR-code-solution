@@ -5,6 +5,7 @@ body {
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
   display: grid;
+  row-gap: 1rem;
   place-content: center;
   text-align: center;
   min-height: 100vh;
@@ -44,7 +45,7 @@ body {
 .attribution {
   font-size: 0.938rem;
   color: hsl(218, 44%, 22%);
-  padding: 1rem;
+  padding: 0 1rem;
   max-width: 20rem;
 }
 

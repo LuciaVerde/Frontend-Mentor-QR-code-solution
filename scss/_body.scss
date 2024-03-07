@@ -2,6 +2,7 @@ body{
     background-color: $Light-gray;
     font-family: $font-family;
     display: grid;
+    row-gap:1rem;
     place-content: center;
     text-align: center;
     min-height: 100vh;
